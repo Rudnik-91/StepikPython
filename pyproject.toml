@@ -1,7 +1,7 @@
 [project]
 name = "my-project"
 version = "0.1.0"
-description = "Add your description here"
+description = "Add your description here_010101010"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
@@ -14,3 +14,4 @@ dev = [
     "pytest>=9.1.1",
     "ruff>=0.15.18",
 ]
+# работаете, меняете файлы
